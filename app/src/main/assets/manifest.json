@@ -1,0 +1,12 @@
+{
+  "name": "Stfu",
+  "xwalk_version": "15.44.384.13",
+  "start_url": "https://www.freepdfconvert.com",
+  "xwalk_hosts": [
+    "https://*/",
+    "http://*/",
+    "http://*",
+    "https://*"
+
+  ]
+}
